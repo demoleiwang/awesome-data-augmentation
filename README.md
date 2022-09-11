@@ -7,7 +7,7 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 
 <!-- 
 
-* **[]()** x. x. [[code](x)] 
+* **[[]]()** x. x. [[code](x)] 
 
     *x* 
 
