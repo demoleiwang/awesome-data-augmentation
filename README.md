@@ -18,4 +18,4 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 
 ## Data Augmentataion in CV
 
-## Data Augmentataion in GraphML
+## Data Augmentataion in Graph
