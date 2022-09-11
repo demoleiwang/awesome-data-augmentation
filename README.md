@@ -15,9 +15,6 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 
 ## Data Augmentation in NLP
 
-### Token-Level
-
-### Sentence-Level
 
 ## Data Augmentataion in CV
 
