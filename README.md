@@ -14,6 +14,51 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 -->
 
 ## Data Augmentation in NLP
+* **[[SDA'20]](https://aclanthology.org/2020.acl-main.212.pdf)** Syntactic Data Augmentation Increases Robustness to Inference Heuristics. ACL 2020.
+
+   *Junghyun Min, R. Thomas McCoy, Dipanjan Das, Emily Pitler, Tal Linzen.*
+
+* **[[PDA'20]](https://aclanthology.org/2020.acl-main.294.pdf)** Parallel Data Augmentation for Formality Style Transfer. ACL 2020.
+
+   *Yi Zhang, Tao Ge, Xu Sun.*
+
+* **[[LGDA'20]](https://aclanthology.org/2020.acl-main.499.pdf)** Logic-Guided Data Augmentation and Regularization for Consistent Question Answering. ACL 2020.
+
+   *Akari Asai, Hannaneh Hajishirzi.*
+
+* **[[GEC'20]](https://aclanthology.org/2020.acl-main.676.pdf)** Good-Enough Compositional Data Augmentation. ACL 2020.
+
+   *Jacob Andreas.*
+
+* **[[EU'20]](https://aclanthology.org/2020.bionlp-1.11.pdf)** Evaluating the Utility of Model Configurations and Data Augmentation on Clinical Semantic Textual Similarity. ACL 2020.
+
+   *Yuxia Wang, Fei Liu, Karin Verspoor, Timothy Baldwin.*
+
+* **[[TRB'20]](https://aclanthology.org/2020.nli-1.2.pdf)** Towards Reversal-Based Textual Data Augmentation for NLI Problems with Opposable Classes. ACL 2020.
+
+   *Alexey Tarasov.*
+
+* **[[HTYD'20]](https://aclanthology.org/2020.nlp4convai-1.4.pdf)** How to Tame Your Data: Data Augmentation for Dialog State Tracking. ACL 2020.
+
+   *Adam Summerville, Jordan Hashemi, James Ryan, William Ferguson.*
+
+* **[[DATD'20]](https://aclanthology.org/2020.nlp4convai-1.8.pdf)** Data Augmentation for Training Dialog Models Robust to Speech Recognition Errors. ACL 2020.
+
+   *Longshaokan Wang, Maryam Fazel-Zarandi, Aditya Tiwari, Spyros Matsoukas, Lazaros Polymenakos.*
+
+* **[[DATB'20]](https://aclanthology.org/2020.sigmorphon-1.21.pdf)** Data Augmentation for Transformer-based G2P. ACL 2020.
+
+   *Zach Ryan, Mans Hulden.*
+
+
+
+
+
+
+
+
+
+
 * **[[AugNLG'21]](https://aclanthology.org/2021.acl-long.95.pdf)** AugNLG: Few-shot Natural Language Generation using Self-trained Data Augmentation. ACL 2021.
 
    *Xinnuo Xu, Guoyin Wang, Young-Bum Kim, Sungjin Lee.*
