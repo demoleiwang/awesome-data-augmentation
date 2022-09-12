@@ -14,6 +14,65 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 -->
 
 ## Data Augmentation in NLP
+* **[[AugNLG'21]](https://aclanthology.org/2021.acl-long.95.pdf)** AugNLG: Few-shot Natural Language Generation using Self-trained Data Augmentation. ACL 2021.
+
+   *Xinnuo Xu, Guoyin Wang, Young-Bum Kim, Sungjin Lee.*
+ 
+ * **[[CVRM'21]](https://aclanthology.org/2021.acl-long.96.pdf)** Can vectors read minds better than experts? Comparing data augmentation strategies for the automated scoring of children’s mindreading ability. ACL 2021.
+ 
+   *Venelin Kovatchev, Phillip Smith, Mark Lee, Rory Devine.*
+
+* **[[UXLA'21]](https://aclanthology.org/2021.acl-long.154.pdf)** UXLA: A Robust Unsupervised Data Augmentation Framework for Zero-Resource Cross-Lingual NLP. ACL 2021.
+
+   *M Saiful Bari, Tasnim Mohiuddin, Shafiq Joty.*
+
+* **[[DATG'21]](https://aclanthology.org/2021.acl-long.173.pdf)** Data Augmentation for Text Generation Without Any Augmented Data. ACL 2021.
+
+   *Wei Bi, Huayang Li, Jiacheng Huang.*
+
+* **[[LearnDA'21]](https://aclanthology.org/2021.acl-long.276.pdf)** LearnDA: Learnable Knowledge-Guided Data Augmentation for Event Causality Identification. ACL 2021.
+
+   *Xinyu Zuo, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, Weihua Peng, Yuguang Chen.*
+
+* **[[CLSS'21]](https://aclanthology.org/2021.acl-long.300.pdf)** Cross-language Sentence Selection via Data Augmentation and Rationale Training. ACL 2021.
+
+   *Yanda Chen, Chris Kedzie, Suraj Nair, Petra Galuscakova, Rui Zhang, Douglas Oard, Kathleen McKeown.*
+
+* **[[HiddenCut'21]](https://aclanthology.org/2021.acl-long.338.pdf)** HiddenCut: Simple Data Augmentation for Natural Language Understanding with Better Generalizability. ACL 2021.
+
+   *Jiaao Chen, Dinghan Shen, Weizhu Chen, Diyi Yang.*
+
+* **[[CoRI]](https://aclanthology.org/2021.acl-long.363.pdf)** CoRI: Collective Relation Integration with Data Augmentation for Open Information Extraction. ACL 2021.
+
+   *Zhengbao Jiang, Jialong Han, Bunyamin Sisman, Xin Luna Dong.*
+
+* **[[DAAT'21]](https://aclanthology.org/2021.acl-long.401.pdf)** Data Augmentation with Adversarial Training for Cross-Lingual NLI. ACL 2021.
+
+   *Xin Dong, Yaxin Zhu, Zuohui Fu, Dongkuan Xu, Gerard de Melo.*
+
+* **[[MulDA'21]](https://aclanthology.org/2021.acl-long.453.pdf)** MulDA: A Multilingual Data Augmentation Framework for Low-Resource Cross-Lingual NER. ACL 2021.
+
+   *Linlin Liu, Bosheng Ding, Lidong Bing, Shafiq Joty, Luo Si, Chunyan Miao.*
+   
+* **[[NRQA'21]](https://aclanthology.org/2021.acl-short.35.pdf)** Neural Retrieval for Question Answering with Cross-Attention Supervised Data Augmentation. ACL 2021.
+
+   *Yinfei Yang, Ning Jin, Kuo Lin, Mandy Guo, Daniel Cer.*
+ 
+ * **[[AO'21]](https://aclanthology.org/2021.acl-short.132.pdf)** Avoiding Overlap in Data Augmentation for AMR-to-Text Generation. ACL 2021.
+ 
+   *Wenchao Du, Jeffrey Flanigan.*
+ 
+ * **[[DAUM'21]](https://aclanthology.org/2021.acl-srw.17.pdf)** Data Augmentation with Unsupervised Machine Translation Improves the Structural Similarity of Cross-lingual Word Embeddings. ACL 2021.
+ 
+   *Sosuke Nishikawa, Ryokan Ri, Yoshimasa Tsuruoka.*
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 * **[[CipherDAug'22]](https://aclanthology.org/2022.acl-long.17.pdf)** CipherDAug: Ciphertext based Data Augmentation for Neural Machine Translation. ACL 2022.
 
    *Nishant Kambhatla, Logan Born, Anoop Sarkar.*
