@@ -37,6 +37,26 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 * **[[STR'22]](https://aclanthology.org/2022.acl-short.27.pdf)** Sample, Translate, Recombine: Leveraging Audio Alignments for Data Augmentation in End-to-end Speech Translation. ACL 2022.
 
    *Tsz Kin Lam, Shigehiko Schamoni, Stefan Riezler.*
+
+* **[[TS'22]](https://aclanthology.org/2022.acl-short.97.pdf)** Text Smoothing: Enhance Various Data Augmentation Methods on Text Classification Tasks. ACL 2022.
+
+   *Xing Wu, Chaochen Gao, Meng Lin, Liangjun Zang, Songlin Hu.*
+
+* **[[DABF'22]](https://aclanthology.org/2022.bionlp-1.6.pdf)** Data Augmentation for Biomedical Factoid Question Answering. ACL 2022.
+
+   *Dimitris Pappas, Prodromos Malakasiotis, Ion Androutsopoulos.*
+
+* **[[SBDA'22]](https://aclanthology.org/2022.bionlp-1.12.pdf)** Simple Semantic-based Data Augmentation for Named Entity Recognition in Biomedical Texts. ACL 2022.
+
+   *Uyen Phan, Nhung Nguyen.*
+
+* **[[DARS'22]](https://aclanthology.org/2022.bionlp-1.29.pdf)** Data Augmentation for Rare Symptoms in Vaccine Side-Effect Detection. ACL 2022.
+
+   *Bosung Kim, Ndapa Nakashole.*
+   
+* **[[HZ'22]](https://aclanthology.org/2022.bionlp-1.39.pdf)** Horses to Zebras: Ontology-Guided Data Augmentation and Synthesis for ICD-9 Coding. ACL 2022.
+
+   *Matúš Falis, Hang Dong, Alexandra Birch, Beatrice Alex.*
 ## Data Augmentataion in CV
 
 ## Data Augmentataion in Graph
