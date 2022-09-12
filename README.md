@@ -57,6 +57,26 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 
 
 
+* **[[DAFH'21]](https://aclanthology.org/2021.eacl-main.89.pdf)** Data Augmentation for Hypernymy Detection. EACL 2021.
+
+   *Thomas Kober, Julie Weeds, Lorenzo Bertolini, David Weir.*
+
+* **[[FSL'21]](https://aclanthology.org/2021.eacl-main.90.pdf)** Few-shot learning through contextual data augmentation. EACL 2021.
+
+   *Farid Arthaud, Rachel Bawden, Alexandra Birch.*
+
+* **[[DAVA'21]](https://aclanthology.org/2021.eacl-main.159.pdf)** Data Augmentation for Voice-Assistant NLU using BERT-based Interchangeable Rephrase. EACL 2021.
+
+   *Akhila Yerukola, Mason Bretan, Hongxia Jin.*
+
+* **[[SSD'21]](https://aclanthology.org/2021.wanlp-1.38.pdf)** Sarcasm and Sentiment Detection In Arabic Tweets Using BERT-based Models and Data Augmentation. EACL 2021.
+
+   *Abeer Abuzayed, Hend Al-Khalifa.*
+
+
+
+
+
 
 
 * **[[AugNLG'21]](https://aclanthology.org/2021.acl-long.95.pdf)** AugNLG: Few-shot Natural Language Generation using Self-trained Data Augmentation. ACL 2021.
