@@ -57,6 +57,68 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 * **[[HZ'22]](https://aclanthology.org/2022.bionlp-1.39.pdf)** Horses to Zebras: Ontology-Guided Data Augmentation and Synthesis for ICD-9 Coding. ACL 2022.
 
    *Matúš Falis, Hang Dong, Alexandra Birch, Beatrice Alex.*
+
+* **[[TDA'22]](https://aclanthology.org/2022.dravidianlangtech-1.5.pdf)** DE-ABUSE@TamilNLP-ACL 2022: Transliteration as Data Augmentation for Abuse Detection in Tamil. ACL 2022.
+
+   *Vasanth Palanikumar, Sean Benhur, Adeep Hande, Bharathi Raja Chakravarthi.*
+
+* **[[EDA'22]](https://aclanthology.org/2022.dravidianlangtech-1.22.pdf)** BpHigh@TamilNLP-ACL2022: Effects of Data Augmentation on Indic-Transformer based classifier for Abusive Comments Detection in Tamil. ACL 2022.
+
+   *Bhavish Pahwa.*
+
+* **[[RDA'22]](https://aclanthology.org/2022.fever-1.1.pdf)** Retrieval Data Augmentation Informed by Downstream Question Answering Performance. ACL 2022.
+
+   *James Ferguson, Hannaneh Hajishirzi, Pradeep Dasigi, Tushar Khot.*
+
+* **[[AUS'22]](https://aclanthology.org/2022.findings-acl.84.pdf)** When Chosen Wisely, More Data Is What You Need: A Universal Sample-Efficient Strategy For Data Augmentation. ACL 2022.
+
+   *Ehsan Kamalloo, Mehdi Rezagholizadeh, Ali Ghodsi.*
+
+* **[[LDC'22]](https://aclanthology.org/2022.findings-acl.127.pdf)** Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text. ACL 2022.
+
+   *Siyuan Wang, Wanjun Zhong, Duyu Tang, Zhongyu Wei, Zhihao Fan, Daxin Jiang, Ming Zhou, Nan Duan.*
+
+* **[[DA'22]](https://aclanthology.org/2022.findings-acl.160.pdf)** Data Augmentation and Learned Layer Aggregation for Improved Multilingual Language Understanding in Dialogue. ACL 2022.
+
+   *Evgeniia Razumovskaia, Ivan Vulić, Anna Korhonen.*
+
+* **[[CNEG'22]](https://aclanthology.org/2022.findings-acl.233.pdf)** Improving Chinese Grammatical Error Detection via Data augmentation by Conditional Error Generation. ACL 2022.
+
+   *Tianchi Yue, Shulin Liu, Huihui Cai, Tao Yang, Shengkang Song, TingHao Yu.*
+
+* **[[AMR'22]](https://aclanthology.org/2022.findings-acl.244.pdf)** AMR-DA: Data Augmentation by Abstract Meaning Representation. ACL 2022.
+
+   *Ziyi Shou, Yuxin Jiang, Fangzhen Lin.*
+
+* **[[AR'22]](https://aclanthology.org/2022.findings-acl.291.pdf)** Addressing Resource and Privacy Constraints in Semantic Parsing Through Data Augmentation. ACL 2022.
+
+   *Kevin Yang, Olivia Deng, Charles Chen, Richard Shin, Subhro Roy, Benjamin Van Durme.*
+
+* **[[CL'22]](https://aclanthology.org/2022.insights-1.7.pdf)** Cross-lingual Inflection as a Data Augmentation Method for Parsing. ACL 2022.
+
+   *Alberto Muñoz-Ortiz, Carlos Gómez-Rodríguez, David Vilares.*
+
+* **[[OIDA'22]](https://aclanthology.org/2022.insights-1.12.pdf)** On the Impact of Data Augmentation on Downstream Performance in Natural Language Processing. ACL 2022.
+
+   *Itsuki Okimura, Machel Reid, Makoto Kawano, Yutaka Matsuo.*
+
+* **[[IMT'22]](https://aclanthology.org/2022.iwslt-1.32.pdf)** Improving Machine Translation Formality Control with Weakly-Labelled Data Augmentation and Post Editing Strategies. ACL 2022.
+
+   *Daniel Zhang, Jiang Yu, Pragati Verma, Ashwinkumar Ganesan, Sarah Campbell.*
+
+* **[[ESM'22]](https://aclanthology.org/2022.ltedi-1.41.pdf)** FilipN@LT-EDI-ACL2022-Detecting signs of Depression from Social Media: Examining the use of summarization methods as data augmentation for text classification. ACL 2022.
+
+   *Filip Nilsson, György Kovács.*
+ 
+ * **[[DAIS'22]](https://aclanthology.org/2022.nlp4convai-1.5.pdf)** Data Augmentation for Intent Classification with Off-the-shelf Large Language Models. ACL 2022.
+ 
+   *Gaurav Sahu, Pau Rodriguez, Issam Laradji, Parmida Atighehchian, David Vazquez, Dzmitry Bahdanau.*
+ 
+ * **[[Clozer'22]](https://aclanthology.org/2022.repl4nlp-1.7.pdf)** Clozer”:" Adaptable Data Augmentation for Cloze-style Reading Comprehension. ACL 2022.
+ 
+   *Holy Lovenia, Bryan Wilie, Willy Chung, Zeng Min, Samuel Cahyawijaya, Dan Su, Pascale Fung.*
+
+
 ## Data Augmentataion in CV
 
 ## Data Augmentataion in Graph
