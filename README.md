@@ -66,6 +66,69 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
  
    *Sosuke Nishikawa, Ryokan Ri, Yoshimasa Tsuruoka.*
  
+ * **[[CAiRE'21]](https://aclanthology.org/2021.dialdoc-1.6.pdf)** CAiRE in DialDoc21: Data Augmentation for Information Seeking Dialogue System. ACL 2021.
+ 
+   *Yan Xu, Etsuko Ishii, Genta Indra Winata, Zhaojiang Lin, Andrea Madotto, Zihan Liu, Peng Xu, Pascale Fung.*
+ 
+ * **[[ASDA'21]](https://aclanthology.org/2021.findings-acl.84.pdf)** A Survey of Data Augmentation Approaches for NLP. ACL 2021.
+ 
+   *Steven Y. Feng, Varun Gangal, Jason Wei, Sarath Chandar, Soroush Vosoughi, Teruko Mitamura, Eduard Hovy.*
+ 
+ * **[[BRMC'21]](https://aclanthology.org/2021.findings-acl.137.pdf)** Better Robustness by More Coverage: Adversarial and Mixup Data Augmentation for Robust Finetuning. ACL 2021.
+ 
+   *Chenglei Si, Zhengyan Zhang, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Qun Liu, Maosong Sun.*
+ 
+ * **[[SS'21]](https://aclanthology.org/2021.findings-acl.307.pdf)** Substructure Substitution: Structured Data Augmentation for NLP. ACL 2021.
+ 
+   *Haoyue Shi, Karen Livescu, Kevin Gimpel.*
+ 
+ * **[[NN'21]](https://aclanthology.org/2021.findings-acl.309.pdf)** Not Far Away, Not So Close: Sample Efficient Nearest Neighbour Data Augmentation via MiniMax. ACL 2021.
+ 
+   *Ehsan Kamalloo, Mehdi Rezagholizadeh, Peyman Passban, Ali Ghodsi.*
+ 
+ * **[[mixSeq'21]](https://aclanthology.org/2021.iwslt-1.23.pdf)** mixSeq: A Simple Data Augmentation Methodfor Neural Machine Translation. ACL 2021.
+ 
+   *Xueqing Wu, Yingce Xia, Jinhua Zhu, Lijun Wu, Shufang Xie, Yang Fan, Tao Qin.*
+ 
+ * **[[DABC'21]](https://aclanthology.org/2021.iwslt-1.33.pdf)** Data Augmentation by Concatenation for Low-Resource Translation: A Mystery and a Solution. ACL 2021.
+ 
+   *Toan Q. Nguyen, Kenton Murray, David Chiang.*
+ 
+ * **[[TUA'21]](https://aclanthology.org/2021.semeval-1.56.pdf)** The University of Arizona at SemEval-2021 Task 10: Applying Self-training, Active Learning and Data Augmentation to Source-free Domain Adaptation. ACL 2021.
+ 
+   *Xin Su, Yiyun Zhao, Steven Bethard.*
+ 
+ * **[[NWM'21]](https://aclanthology.org/2021.semeval-1.96.pdf)** Cambridge at SemEval-2021 Task 2: Neural WiC-Model with Data Augmentation and Exploration of Representation. ACL 2021.
+ 
+   *Zheng Yuan, David Strohmaier.*
+ 
+ * **[[RMDA'21]](https://aclanthology.org/2021.semeval-1.147.pdf)** NLPIITR at SemEval-2021 Task 6: RoBERTa Model with Data Augmentation for Persuasion Techniques Detection. ACL 2022.
+ 
+   *Vansh Gupta, Raksha Sharma.*
+ 
+ * **[[DPT'21]](https://aclanthology.org/2021.semeval-1.148.pdf)** LeCun at SemEval-2021 Task 6: Detecting Persuasion Techniques in Text Using Ensembled Pretrained Transformers and Data Augmentation. ACL 2021.
+ 
+   *Dia Abujaber, Ahmed Qarqaz, Malak A. Abdullah.*
+ 
+ * **[[DAL'21]](https://aclanthology.org/2021.sigmorphon-1.14.pdf)** Data augmentation for low-resource grapheme-to-phoneme mapping. ACL 2021.
+ 
+   *Michael Hammond.*
+ 
+ * **[[BSS'21]](https://aclanthology.org/2021.sigmorphon-1.27.pdf)** BME Submission for SIGMORPHON 2021 Shared Task 0. A Three Step Training Approach with Data Augmentation for Morphological Inflection. ACL 2021.
+ 
+   *Gábor Szolnok, Botond Barta, Dorina Lakatos, Judit Ács.*
+
+* **[[ZPDA'21]](https://aclanthology.org/2021.wat-1.11.pdf)** Zero-pronoun Data Augmentation for Japanese-to-English Translation. ACL 2021.
+
+   *Ryokan Ri, Toshiaki Nakazawa, Yoshimasa Tsuruoka.*
+
+
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
