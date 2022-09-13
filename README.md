@@ -14,6 +14,9 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 -->
 
 ## Data Augmentation in NLP
+
+### ACL 2022
+
 * **[[SDA'20]](https://aclanthology.org/2020.acl-main.212.pdf)** Syntactic Data Augmentation Increases Robustness to Inference Heuristics. ACL 2020.
 
    *Junghyun Min, R. Thomas McCoy, Dipanjan Das, Emily Pitler, Tal Linzen.*
@@ -49,6 +52,8 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 * **[[DATB'20]](https://aclanthology.org/2020.sigmorphon-1.21.pdf)** Data Augmentation for Transformer-based G2P. ACL 2020.
 
    *Zach Ryan, Mans Hulden.*
+   
+### EMNLP 2022
 
 * **[[LAB'20]](https://aclanthology.org/2020.emnlp-main.95.pdf)** Local Additivity Based Data Augmentation for Semi-supervised NER. EMNLP 2020.
 
@@ -135,7 +140,7 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
    *Kumud Chauhan.*
 
 
-
+### EACL 2021
 
 
 * **[[DAFH'21]](https://aclanthology.org/2021.eacl-main.89.pdf)** Data Augmentation for Hypernymy Detection. EACL 2021.
@@ -153,6 +158,8 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 * **[[SSD'21]](https://aclanthology.org/2021.wanlp-1.38.pdf)** Sarcasm and Sentiment Detection In Arabic Tweets Using BERT-based Models and Data Augmentation. EACL 2021.
 
    *Abeer Abuzayed, Hend Al-Khalifa.*
+   
+### NAACL 2021
 
  * **[[CDA'21]](https://aclanthology.org/2021.naacl-main.18.pdf)** Counterfactual Data Augmentation for Neural Machine Translation. NAACL 2021.
  
@@ -193,6 +200,8 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
  * **[[CG'21]](https://aclanthology.org/2021.tacl-1.3.pdf)** Conversation Graph: Data Augmentation, Training, and Evaluation for Non-Deterministic Dialogue Management. NAACL 2021.
  
    *Milan Gritta, Gerasimos Lampouras, Ignacio Iacobacci.*
+   
+### ACL 2021
  
 * **[[AugNLG'21]](https://aclanthology.org/2021.acl-long.95.pdf)** AugNLG: Few-shot Natural Language Generation using Self-trained Data Augmentation. ACL 2021.
 
@@ -301,6 +310,10 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 * **[[ZPDA'21]](https://aclanthology.org/2021.wat-1.11.pdf)** Zero-pronoun Data Augmentation for Japanese-to-English Translation. ACL 2021.
 
    *Ryokan Ri, Toshiaki Nakazawa, Yoshimasa Tsuruoka.*
+   
+### EMNLP 2021
+
+   *Ryokan Ri, Toshiaki Nakazawa, Yoshimasa Tsuruoka.*
 
 * **[[RCDA'21]](https://aclanthology.org/2021.emnlp-main.24.pdf)** Reinforced Counterfactual Data Augmentation for Dual Sentiment Classification. EMNLP 2021.
 
@@ -386,7 +399,7 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
  
    *Yang Deng, Wenxuan Zhang, Wai Lam.*
  
- 
+### ACL 2022
  
 * **[[CipherDAug'22]](https://aclanthology.org/2022.acl-long.17.pdf)** CipherDAug: Ciphertext based Data Augmentation for Neural Machine Translation. ACL 2022.
 
@@ -491,6 +504,8 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
  * **[[Clozer'22]](https://aclanthology.org/2022.repl4nlp-1.7.pdf)** Clozer”:" Adaptable Data Augmentation for Cloze-style Reading Comprehension. ACL 2022.
  
    *Holy Lovenia, Bryan Wilie, Willy Chung, Zeng Min, Samuel Cahyawijaya, Dan Su, Pascale Fung.*
+   
+### Findings 2022
 
 * **[[DALR'22]](https://aclanthology.org/2022.findings-naacl.53.pdf)** Data Augmentation for Low-Resource Dialogue Summarization. Findings 2022.
 
@@ -503,12 +518,14 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 * **[[EMG'22]](https://aclanthology.org/2022.findings-naacl.205.pdf)** Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation. Findings 2022.
 
    *Yong Cao, Wei Li, Xianzhi Li, Min Chen, Guangyong Chen, Long Hu, Zhengdao Li, Kai Hwang.*
+   
+### NAACL 2022
 
 * **[[DAD'22]](https://aclanthology.org/2022.naacl-main.185.pdf)** Data Augmentation with Dual Training for Offensive Span Detection. NAACL 2022.
 
    *Nasim Nouri.*
 
-* **[[PM'22]](https://aclanthology.org/2022.naacl-main.310.pdf)** Practice Makes a Solver Perfect: Data Augmentation for Math Word Problem Solvers. BAACL 2022.
+* **[[PM'22]](https://aclanthology.org/2022.naacl-main.310.pdf)** Practice Makes a Solver Perfect: Data Augmentation for Math Word Problem Solvers. NAACL 2022.
 
    *Vivek Kumar, Rishabh Maheshwary, Vikram Pudi.*
 
