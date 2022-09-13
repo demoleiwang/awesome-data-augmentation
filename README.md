@@ -313,7 +313,7 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
    
 ### EMNLP 2021
 
-   *Ryokan Ri, Toshiaki Nakazawa, Yoshimasa Tsuruoka.*
+<!--    *Ryokan Ri, Toshiaki Nakazawa, Yoshimasa Tsuruoka.* -->
 
 * **[[RCDA'21]](https://aclanthology.org/2021.emnlp-main.24.pdf)** Reinforced Counterfactual Data Augmentation for Dual Sentiment Classification. EMNLP 2021.
 
