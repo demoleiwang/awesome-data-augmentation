@@ -134,16 +134,6 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 
    *Kumud Chauhan.*
 
-* **[[]]()** 
-
-
-
-
-
-
-
-
-
 
 
 
@@ -200,25 +190,10 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
  
    *Frances Adriana Laureano De Leon, Harish Tayyar Madabushi, Mark Lee.*
  
+ * **[[CG'21]](https://aclanthology.org/2021.tacl-1.3.pdf)** Conversation Graph: Data Augmentation, Training, and Evaluation for Non-Deterministic Dialogue Management. NAACL 2021.
  
+   *Milan Gritta, Gerasimos Lampouras, Ignacio Iacobacci.*
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
-
-
 * **[[AugNLG'21]](https://aclanthology.org/2021.acl-long.95.pdf)** AugNLG: Few-shot Natural Language Generation using Self-trained Data Augmentation. ACL 2021.
 
    *Xinnuo Xu, Guoyin Wang, Young-Bum Kim, Sungjin Lee.*
@@ -410,16 +385,6 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
  * **[[LRQA'21]](https://aclanthology.org/2021.wnut-1.20.pdf)** Learning to Rank Question Answer Pairs with Bilateral Contrastive Data Augmentation. EMNLP 2021.
  
    *Yang Deng, Wenxuan Zhang, Wai Lam.*
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
