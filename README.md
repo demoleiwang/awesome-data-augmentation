@@ -222,7 +222,7 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 
    *Jiaao Chen, Dinghan Shen, Weizhu Chen, Diyi Yang.*
 
-* **[[CoRI]](https://aclanthology.org/2021.acl-long.363.pdf)** CoRI: Collective Relation Integration with Data Augmentation for Open Information Extraction. ACL 2021.
+* **[[CoRI'21]](https://aclanthology.org/2021.acl-long.363.pdf)** CoRI: Collective Relation Integration with Data Augmentation for Open Information Extraction. ACL 2021.
 
    *Zhengbao Jiang, Jialong Han, Bunyamin Sisman, Xin Luna Dong.*
 
@@ -282,7 +282,7 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
  
    *Zheng Yuan, David Strohmaier.*
  
- * **[[RMDA'21]](https://aclanthology.org/2021.semeval-1.147.pdf)** NLPIITR at SemEval-2021 Task 6: RoBERTa Model with Data Augmentation for Persuasion Techniques Detection. ACL 2022.
+ * **[[RMDA'21]](https://aclanthology.org/2021.semeval-1.147.pdf)** NLPIITR at SemEval-2021 Task 6: RoBERTa Model with Data Augmentation for Persuasion Techniques Detection. ACL 2021.
  
    *Vansh Gupta, Raksha Sharma.*
  
