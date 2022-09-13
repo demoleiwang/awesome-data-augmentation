@@ -53,10 +53,96 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 * **[[LAB'20]](https://aclanthology.org/2020.emnlp-main.95.pdf)** Local Additivity Based Data Augmentation for Semi-supervised NER. EMNLP 2020.
 
    *Jiaao Chen, Zhenghui Wang, Ran Tian, Zichao Yang, Diyi Yang.*
-
-* **[[SSMBA'21]](https://aclanthology.org/2020.emnlp-main.97.pdf)** SSMBA: Self-Supervised Manifold Based Data Augmentation for Improving Out-of-Domain Robustness. EMNLP 2020.
+ 
+* **[[SSMBA'20]](https://aclanthology.org/2020.emnlp-main.97.pdf)** SSMBA: Self-Supervised Manifold Based Data Augmentation for Improving Out-of-Domain Robustness. EMNLP 2020.
 
    *Nathan Ng, Kyunghyun Cho, Marzyeh Ghassemi.*
+
+* **[[LP'20]](https://aclanthology.org/2020.emnlp-main.266.pdf)** Learning Physical Common Sense as Knowledge Graph Completion via BERT Data Augmentation and Constrained Tucker Factorization. EMNLP 2020.
+
+   *Zhenjie Zhao, Evangelos Papalexakis, Xiaojuan Ma.*
+
+* **[[VHDA'20]](https://aclanthology.org/2020.emnlp-main.274.pdf)** Variational Hierarchical Dialog Autoencoder for Dialog State Tracking Data Augmentation. EMNLP 2020.
+
+   *Kang Min Yoo, Hanbit Lee, Franck Dernoncourt, Trung Bui, Walter Chang, Sang-goo Lee.*
+
+* **[[SDA'20]](https://aclanthology.org/2020.emnlp-main.412.pdf)** Simple Data Augmentation with the Mask Token Improves Domain Adaptation for Dialog Act Tagging. EMNLP 2020.
+
+   *Semih Yavuz, Kazuma Hashimoto, Wenhao Liu, Nitish Shirish Keskar, Richard Socher, Caiming Xiong.*
+
+* **[[CMR'20]](https://aclanthology.org/2020.emnlp-main.419.pdf)** Controllable Meaning Representation to Text Generation: Linearization and Data Augmentation Strategies. EMNLP 2020.
+
+   *Chris Kedzie, Kathleen McKeown.*
+
+* **[[SL'20]](https://aclanthology.org/2020.emnlp-main.447.pdf)** Sequence-Level Mixed Sample Data Augmentation. EMNLP 2020.
+
+   *Demi Guo, Yoon Kim, Alexander Rush.*
+
+* **[[TMH'20]](https://aclanthology.org/2020.emnlp-main.467.pdf)** Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space. EMNLP 2020.
+
+   *Dayiheng Liu, Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Jiancheng Lv, Nan Duan, Ming Zhou.*
+
+* **[[DAGA'20]](https://aclanthology.org/2020.emnlp-main.488.pdf)** DAGA: Data Augmentation with a Generation Approach for Low-resource Tagging Tasks. EMNLP 2020.
+
+   *Bosheng Ding, Linlin Liu, Lidong Bing, Canasai Kruengkrai, Thien Hai Nguyen, Shafiq Joty, Luo Si, Chunyan Miao.*
+
+* **[[TDA'20]](https://aclanthology.org/2020.emnlp-main.600.pdf)** Textual Data Augmentation for Efficient Active Learning on Tiny Datasets. EMNLP 2020.
+
+   *Husam Quteineh, Spyridon Samothrakis, Richard Sutcliffe.*
+
+* **[[DB'20]](https://aclanthology.org/2020.emnlp-main.726.pdf)** Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation. EMNLP 2020.
+
+   *Ruibo Liu, Guangxuan Xu, Chenyan Jia, Weicheng Ma, Lili Wang, Soroush Vosoughi.*
+
+* **[[TextAttack'20]](https://aclanthology.org/2020.emnlp-demos.16.pdf)** TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP. EMNLP 2020.
+
+   *John Morris, Eli Lifland, Jin Yong Yoo, Jake Grigsby, Di Jin, Yanjun Qi.*
+
+* **[[PHICON'20]](https://aclanthology.org/2020.clinicalnlp-1.23.pdf)** PHICON: Improving Generalization of Clinical Text De-identification Models via Data Augmentation. EMNLP 2020.
+
+   *Xiang Yue, Shuang Zhou.*
+
+* **[[GenAug'20]](https://aclanthology.org/2020.deelio-1.4.pdf)** GenAug: Data Augmentation for Finetuning Text Generators.EMNLP 2020.
+
+   *Steven Y. Feng, Varun Gangal, Dongyeop Kang, Teruko Mitamura, Eduard Hovy.*
+
+* **[[GDA'20]](https://aclanthology.org/2020.findings-emnlp.90.pdf)** Generative Data Augmentation for Commonsense Reasoning. EMNLP 2020.
+
+   *Yiben Yang, Chaitanya Malaviya, Jared Fernandez, Swabha Swayamdipta, Ronan Le Bras, Ji-Ping Wang, Chandra Bhagavatula, Yejin Choi, Doug Downey.*
+
+* **[[HE'20]](https://aclanthology.org/2020.findings-emnlp.394.pdf)** How Effective is Task-Agnostic Data Augmentation for Pretrained Transformers?. EMNLP 2020.
+
+   *Shayne Longpre, Yu Wang, Chris DuBois.*
+
+* **[[TDA'20]](https://aclanthology.org/2020.nlpcovid19-2.19.pdf)** Twitter Data Augmentation for Monitoring Public Opinion on COVID-19 Intervention Measures. EMNLP 2020.
+
+   *Lin Miao, Mark Last, Marina Litvak.*
+
+* **[[NS'20]](https://aclanthology.org/2020.wmt-1.83.pdf)** Noising Scheme for Data Augmentation in Automatic Post-Editing. EMNLP 2020.
+
+   *WonKee Lee, Jaehun Shin, Baikjin Jung, Jihyung Lee, Jong-Hyeok Lee.*
+
+* **[[QE'20]](https://aclanthology.org/2020.wnut-1.26.pdf)** Quantifying the Evaluation of Heuristic Methods for Textual Data Augmentation. EMNLP 2020.
+
+   *Omid Kashefi, Rebecca Hwa.*
+
+* **[[CIT'20]](https://aclanthology.org/2020.wnut-1.59.pdf)** Linguist Geeks on WNUT-2020 Task 2: COVID-19 Informative Tweet Identification using Progressive Trained Language Models and Data Augmentation. EMNLP 2020.
+
+   *Vasudev Awatramani, Anupam Kumar.*
+
+* **[[DA'20]](https://aclanthology.org/2020.wnut-1.64.pdf)** NEU at WNUT-2020 Task 2: Data Augmentation To Tell BERT That Death Is Not Necessarily Informative. EMNLP 2020.
+
+   *Kumud Chauhan.*
+
+* **[[]]()** 
+
+
+
+
+
+
+
+
 
 
 
