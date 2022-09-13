@@ -164,7 +164,56 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 
    *Abeer Abuzayed, Hend Al-Khalifa.*
 
+ * **[[CDA'21]](https://aclanthology.org/2021.naacl-main.18.pdf)** Counterfactual Data Augmentation for Neural Machine Translation. NAACL 2021.
+ 
+   *Qi Liu, Matt Kusner, Phil Blunsom.*
+ 
+ * **[[AS'21]](https://aclanthology.org/2021.naacl-main.28.pdf)** Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks. NAACL 2021.
+ 
+   *Nandan Thakur, Nils Reimers, Johannes Daxenberger, Iryna Gurevych.*
 
+* **[[IZ'21]](https://aclanthology.org/2021.naacl-main.57.pdf)** Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation. NAACL 2021.
+ 
+   *Alexander Fabbri, Simeng Han, Haoyuan Li, Haoran Li, Marjan Ghazvininejad, Shafiq Joty, Dragomir Radev, Yashar Mehdad.*
+ 
+ * **[[TA'21]](https://aclanthology.org/2021.naacl-main.148.pdf)** Target-Aware Data Augmentation for Stance Detection. NAACL 2021.
+ 
+   *Yingjie Li, Cornelia Caragea.*
+ 
+* **[[FS'21]](https://aclanthology.org/2021.naacl-main.434.pdf)** Few-Shot Text Classification with Triplet Networks, Data Augmentation, and Curriculum Learning. NAACL 2021. 
+   
+   *Jason Wei, Chengyu Huang, Soroush Vosoughi, Yu Cheng, Shiqi Xu.*
+
+* **[[TDA'21]](https://aclanthology.org/2021.naacl-main.459.pdf)** Training Data Augmentation for Code-Mixed Translation. NAACL 2021.
+ 
+   *Abhirut Gupta, Aditya Vavre, Sunita Sarawagi.*
+ 
+* **[[SC'21]](https://aclanthology.org/2021.naacl-srw.18.pdf)** Sentence Concatenation Approach to Data Augmentation for Neural Machine Translation. NAACL 2021. 
+ 
+   *Seiichiro Kondo, Kengo Hotate, Tosho Hirasawa, Masahiro Kaneko, Mamoru Komachi.*
+
+* **[[TopGuNN'21]](https://aclanthology.org/2021.dash-1.14.pdf)** TopGuNN: Fast NLP Training Data Augmentation using Large Corpora. NAACL 2021.
+ 
+   *Rebecca Iglesias-Flores, Megha Mishra, Ajay Patel, Akanksha Malhotra, Reno Kriz, Martha Palmer, Chris Callison-Burch.*
+ 
+ * **[[DAC'21]](https://aclanthology.org/2021.smm4h-1.23.pdf)** UoB at ProfNER 2021: Data Augmentation for Classification Using Machine Translation. NAACL 2021.
+ 
+   *Frances Adriana Laureano De Leon, Harish Tayyar Madabushi, Mark Lee.*
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 
@@ -526,22 +575,65 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 
    *Adyasha Maharana, Mohit Bansal.*
 
+* **[[ZQA'22]](https://aclanthology.org/2022.mia-1.8.pdf)** ZusammenQA: Data Augmentation with Specialized Models for Cross-lingual Open-retrieval Question Answering System. NAACL 2022.
 
+   *Chia-Chien Hung, Tommaso Green, Robert Litschko, Tornike Tsereteli, Sotaro Takeshita, Marco Bombieri, Goran Glavaš, Simone Paolo Ponzetto.*
 
+* **[[IG'22]](https://aclanthology.org/2022.semeval-1.35.pdf)** UU-Tax at SemEval-2022 Task 3: Improving the generalizability of language models for taxonomy classification through data augmentation. NAACL 2022.
 
+   *Injy Sarhan, Pablo Mosteiro, Marco Spruit.*
 
+* **[[PC'22]](https://aclanthology.org/2022.semeval-1.52.pdf)** Tesla at SemEval-2022 Task 4: Patronizing and Condescending Language Detection using Transformer-based Models with Data Augmentation. NAACL 2022.
 
+   *Sahil Bhatt, Manish Shrivastava.*
 
+* **[[TA'22]](https://aclanthology.org/2022.semeval-1.66.pdf)** Amsqr at SemEval-2022 Task 4: Towards AutoNLP via Meta-Learning and Adversarial Data Augmentation for PCL Detection. NAACL 2022.
 
+   *Alejandro Mosquera.*
 
+* **[[EDA'22]](https://aclanthology.org/2022.semeval-1.69.pdf)** CS/NLP at SemEval-2022 Task 4: Effective Data Augmentation Methods for Patronizing Language Detection and Multi-label Classification with RoBERTa and GPT3. NAACL 2022.
 
+   *Daniel Saeedi, Sirwe Saeedi, Aliakbar Panahi, Alvis C.M. Fong.*
 
+* **[[SD'22]](https://aclanthology.org/2022.semeval-1.130.pdf)** Plumeria at SemEval-2022 Task 6: Sarcasm Detection for English and Arabic Using Transformers and Data Augmentation. NAACL 2022.
 
+   *Mosab Shaheen, Shubham Nigam.*
 
+* **[[ACA'22]](https://aclanthology.org/2022.semeval-1.135.pdf)** UTNLP at SemEval-2022 Task 6: A Comparative Analysis of Sarcasm Detection Using Generative-based and Mutation-based Data Augmentation. NAACL 2022.
 
+   *Amirhossein Abaskohi, Arash Rasouli, Tanin Zeraati, Behnam Bahrak.*
 
+* **[[ALI'22]](https://aclanthology.org/2022.semeval-1.157.pdf)** HFL at SemEval-2022 Task 8: A Linguistics-inspired Regression Model with Data Augmentation for Multilingual News Similarity. NAACL 2022.
 
+   *Zihang Xu, Ziqing Yang, Yiming Cui, Zhigang Chen.*
 
+* **[[PT'22]](https://aclanthology.org/2022.semeval-1.167.pdf)** ITNLP2022 at SemEval-2022 Task 8: Pre-trained Model with Data Augmentation and Voting for Multilingual News Similarity. NAACL 2022.
+
+   *Zhongan Chen, Weiwei Chen, YunLong Sun, Hongqing Xu, Shuzhe Zhou, Bohan Chen, Chengjie Sun, Yuanchao Liu.*
+
+* **[[IDA'22]](https://aclanthology.org/2022.semeval-1.185.pdf)** MT-Speech at SemEval-2022 Task 10: Incorporating Data Augmentation and Auxiliary Task with Cross-Lingual Pretrained Language Model for Structured Sentiment Analysis. NAACL 2022.
+
+   *Cong Chen, Jiansong Chen, Cao Liu, Fan Yang, Guanglu Wan, Jinxiong Xia.*
+
+* **[[AS'22]](https://aclanthology.org/2022.semeval-1.206.pdf)** Infrrd.ai at SemEval-2022 Task 11: A system for named entity recognition using data augmentation, transformer-based sequence labeling model, and EnsembleCRF. NAACL 2022.
+
+   *Jianglong He, Akshay Uppal, Mamatha N, Shiv Vignesh, Deepak Kumar, Aditya Kumar Sarda.*
+
+* **[[OL'22]](https://aclanthology.org/2022.semeval-1.209.pdf)** TEAM-Atreides at SemEval-2022 Task 11: On leveraging data augmentation and ensemble to recognize complex Named Entities in Bangla. NAACL 2022.
+
+   *Nazia Tasnim, Md. Istiak Shihab, Asif Shahriyar Sushmit, Steven Bethard, Farig Sadeque.*
+
+* **[[DAE'22]](https://aclanthology.org/2022.semeval-1.222.pdf)** UA-KO at SemEval-2022 Task 11: Data Augmentation and Ensembles for Korean Named Entity Recognition. NAACL 2022.
+
+   *Hyunju Song, Steven Bethard.*
+
+* **[[DA'22]](https://aclanthology.org/2022.sigmorphon-1.12.pdf)** Sharing Data by Language Family: Data Augmentation for Romance Language Morpheme Segmentation. NAACL 2022.
+
+   *Lauren Levine.*
+
+* **[[CG'22]](https://aclanthology.org/2022.wnu-1.2.pdf)** Compositional Generalization for Kinship Prediction through Data Augmentation. NAACL 2022.
+
+   *Kangda Wei, Sayan Ghosh, Shashank Srivastava.*
 
 ## Data Augmentataion in CV
 
