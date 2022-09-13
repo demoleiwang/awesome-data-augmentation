@@ -490,6 +490,52 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 
    *Yong Cao, Wei Li, Xianzhi Li, Min Chen, Guangyong Chen, Long Hu, Zhengdao Li, Kai Hwang.*
 
+* **[[DAD'22]](https://aclanthology.org/2022.naacl-main.185.pdf)** Data Augmentation with Dual Training for Offensive Span Detection. NAACL 2022.
+
+   *Nasim Nouri.*
+
+* **[[PM'22]](https://aclanthology.org/2022.naacl-main.310.pdf)** Practice Makes a Solver Perfect: Data Augmentation for Math Word Problem Solvers. BAACL 2022.
+
+   *Vivek Kumar, Rishabh Maheshwary, Vikram Pudi.*
+
+* **[[GCD'22]](https://aclanthology.org/2022.naacl-main.312.pdf)** Generative Cross-Domain Data Augmentation for Aspect and Opinion Co-Extraction. NAACL 2022.
+
+   *Junjie Li, Jianfei Yu, Rui Xia.*
+
+* **[[ICG'22]](https://aclanthology.org/2022.naacl-main.323.pdf)** Improving Compositional Generalization with Latent Structure and Data Augmentation. NAACL 2022.
+
+   *Linlu Qiu, Peter Shaw, Panupong Pasupat, Pawel Nowak, Tal Linzen, Fei Sha, Kristina Toutanova.*
+
+* **[[EPiDA'22]](https://aclanthology.org/2022.naacl-main.349.pdf)** EPiDA: An Easy Plug-in Data Augmentation Framework for High Performance Text Classification. NAACL 2022.
+
+   *Minyi Zhao, Lu Zhang, Yi Xu, Jiandong Ding, Jihong Guan, Shuigeng Zhou.*
+
+* **[[TreeMix'22]](https://aclanthology.org/2022.naacl-main.385.pdf)** TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding. NAACL 2022.
+
+   *Le Zhang, Zichao Yang, Diyi Yang.*
+
+* **[[EP'22]](https://aclanthology.org/2022.naacl-srw.3.pdf)** ExtraPhrase: Efficient Data Augmentation for Abstractive Summarization. NAACL 2022.
+
+   *Mengsay Loem, Sho Takase, Masahiro Kaneko, Naoaki Okazaki.*
+
+* **[[IC'22]](https://aclanthology.org/2022.naacl-srw.9.pdf)** Improving Classification of Infrequent Cognitive Distortions: Domain-Specific Model vs. Data Augmentation. NAACL 2022.
+
+   *Xiruo Ding, Kevin Lybarger, Justin Tauscher, Trevor Cohen.*
+
+* **[[GraDA'22]](https://aclanthology.org/2022.dlg4nlp-1.6.pdf)** GraDA: Graph Generative Data Augmentation for Commonsense Reasoning. NAACL 2022.
+
+   *Adyasha Maharana, Mohit Bansal.*
+
+
+
+
+
+
+
+
+
+
+
 
 
 
