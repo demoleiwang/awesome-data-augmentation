@@ -15,7 +15,7 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 
 ## Data Augmentation in NLP
 
-### ACL 2022
+### ACL 2020
 
 * **[[SDA'20]](https://aclanthology.org/2020.acl-main.212.pdf)** Syntactic Data Augmentation Increases Robustness to Inference Heuristics. ACL 2020.
 
