@@ -50,8 +50,13 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 
    *Zach Ryan, Mans Hulden.*
 
+* **[[LAB'20]](https://aclanthology.org/2020.emnlp-main.95.pdf)** Local Additivity Based Data Augmentation for Semi-supervised NER. EMNLP 2020.
 
+   *Jiaao Chen, Zhenghui Wang, Ran Tian, Zichao Yang, Diyi Yang.*
 
+* **[[SSMBA'21]](https://aclanthology.org/2020.emnlp-main.97.pdf)** SSMBA: Self-Supervised Manifold Based Data Augmentation for Improving Out-of-Domain Robustness. EMNLP 2020.
+
+   *Nathan Ng, Kyunghyun Cho, Marzyeh Ghassemi.*
 
 
 
@@ -187,7 +192,89 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 
    *Ryokan Ri, Toshiaki Nakazawa, Yoshimasa Tsuruoka.*
 
+* **[[RCDA'21]](https://aclanthology.org/2021.emnlp-main.24.pdf)** Reinforced Counterfactual Data Augmentation for Dual Sentiment Classification. EMNLP 2021.
 
+   *Hao Chen, Rui Xia, Jianfei Yu.*
+ 
+ * **[[GOLD'21]](https://aclanthology.org/2021.emnlp-main.35.pdf)** GOLD: Improving Out-of-Scope Detection in Dialogues using Data Augmentation. EMNLP 2021.
+ 
+   *Derek Chen, Zhou Yu.*
+ 
+ * **[[ECL'21]](https://aclanthology.org/2021.emnlp-main.138.pdf)** Efficient Contrastive Learning via Novel Data Augmentation and Curriculum Learning. EMNLP 2021.
+ 
+   *Seonghyeon Ye, Jiseon Kim, Alice Oh.*
+ 
+ * **[[MRC'21]](https://aclanthology.org/2021.emnlp-main.214v2.pdf)** Machine Reading Comprehension as Data Augmentation: A Case Study on Implicit Event Argument Extraction. EMNLP 2021.
+ 
+   *Jian Liu, Yufeng Chen, Jinan Xu.*
+
+* **[[VDA'21]](https://aclanthology.org/2021.emnlp-main.315.pdf)** Virtual Data Augmentation: A Robust and General Framework for Fine-tuning Pre-trained Models. EMNLP 2021.
+ 
+   *Kun Zhou, Wayne Xin Zhao, Sirui Wang, Fuzheng Zhang, Wei Wu, Ji-Rong Wen.* 
+ 
+* **[[SPDA'21]](https://aclanthology.org/2021.emnlp-main.362.pdf)** Semantics-Preserved Data Augmentation for Aspect-Based Sentiment Analysis. EMNLP 2021.
+
+   *Ting-Wei Hsu, Chung-Chi Chen, Hen-Hsen Huang, Hsin-Hsi Chen.*
+
+* **[[UDA'21]](https://aclanthology.org/2021.emnlp-main.408.pdf)** Unsupervised Data Augmentation with Naive Augmentation and without Unlabeled Data. EMNLP 2021.
+
+   *David Lowell, Brian Howard, Zachary C. Lipton, Byron Wallace.*
+
+* **[[DACD'21]](https://aclanthology.org/2021.emnlp-main.434.pdf)** Data Augmentation for Cross-Domain Named Entity Recognition. EMNLP 2021.
+
+   *Shuguang Chen, Gustavo Aguilar, Leonardo Neves, Thamar Solorio.*
+
+* **[[SCDA'21]](https://aclanthology.org/2021.emnlp-main.530.pdf)** Simple Conversational Data Augmentation for Semi-supervised Abstractive Dialogue Summarization. EMNLP 2021.
+
+   *Jiaao Chen, Diyi Yang.*
+
+* **[[SDA'21]](https://aclanthology.org/2021.emnlp-main.562.pdf)** Synthetic Data Augmentation for Zero-Shot Cross-Lingual Question Answering. EMNLP 2021.
+
+   *Arij Riabi, Thomas Scialom, Rachel Keraron, Benoît Sagot, Djamé Seddah, Jacopo Staiano.*
+
+* **[[RDA'21]](https://aclanthology.org/2021.emnlp-main.669.pdf)** Rethinking Data Augmentation for Low-Resource Neural Machine Translation: A Multi-Task Learning Approach. EMNLP 2021.
+
+   *Víctor M. Sánchez-Cartagena, Miquel Esplà-Gomis, Juan Antonio Pérez-Ortiz, Felipe Sánchez-Martínez.*
+
+* **[[DAH'21]](https://aclanthology.org/2021.emnlp-main.707.pdf)** Data Augmentation with Hierarchical SQL-to-Question Generation for Cross-domain Text-to-SQL Parsing. EMNLP 2021.
+
+   *Kun Wu, Lijie Wang, Zhenghua Li, Ao Zhang, Xinyan Xiao, Hua Wu, Min Zhang, Haifeng Wang.*
+
+* **[[HypMix'21]](https://aclanthology.org/2021.emnlp-main.776.pdf)** HypMix: Hyperbolic Interpolative Data Augmentation. EMNLP 2021.
+
+   *Ramit Sawhney, Megh Thakkar, Shivam Agarwal, Di Jin, Diyi Yang, Lucie Flek.*
+
+* **[[DAIR'21]](https://aclanthology.org/2021.conll-1.17.pdf)** Data Augmentation of Incorporating Real Error Patterns and Linguistic Knowledge for Grammatical Error Correction. EMNLP 2021.
+
+   *Xia Li, Junyi He.*
+
+* **[[DAM'21]](https://aclanthology.org/2021.crac-1.9.pdf)** Data Augmentation Methods for Anaphoric Zero Pronouns. EMNLP 2021.
+
+   *Abdulrahman Aloraini, Massimo Poesio.*
+
+* **[[IDS'21]](https://aclanthology.org/2021.findings-emnlp.144.pdf)** Improving Dialogue State Tracking with Turn-based Loss Function and Sequential Data Augmentation. EMNLP 2021.
+
+   *Jarana Manotumruksa, Jeff Dalton, Edgar Meij, Emine Yilmaz.*
+ 
+* **[[AEDA'21]](https://aclanthology.org/2021.findings-emnlp.234.pdf)** AEDA: An Easier Data Augmentation Technique for Text Classification. EMNLP 2021.
+
+   *Akbar Karimi, Leonardo Rossi, Andrea Prati.*
+ 
+ * **[[LDA'21]](https://aclanthology.org/2021.insights-1.14.pdf)** Learning Data Augmentation Schedules for Natural Language Processing. EMNLP 2021.
+ 
+   *Daphné Chopard, Matthias S. Treder, Irena Spasić.*
+
+* **[[SH'21]](https://aclanthology.org/2021.law-1.8.pdf)** Sister Help: Data Augmentation for Frame-Semantic Role Labeling. EMNLP 2021.
+
+   *Ayush Pancholy, Miriam R L Petruck, Swabha Swayamdipta.*
+ 
+ * **[[AuGPT'21]](https://aclanthology.org/2021.nlp4convai-1.19.pdf)** AuGPT: Auxiliary Tasks and Data Augmentation for End-To-End Dialogue with Pre-Trained Language Models. EMNLP 2021.
+ 
+   *Jonáš Kulhánek, Vojtěch Hudeček, Tomáš Nekvinda, Ondřej Dušek.*
+ 
+ * **[[LRQA'21]](https://aclanthology.org/2021.wnut-1.20.pdf)** Learning to Rank Question Answer Pairs with Bilateral Contrastive Data Augmentation. EMNLP 2021.
+ 
+   *Yang Deng, Wenxuan Zhang, Wai Lam.*
  
  
  
