@@ -478,6 +478,24 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
  
    *Holy Lovenia, Bryan Wilie, Willy Chung, Zeng Min, Samuel Cahyawijaya, Dan Su, Pascale Fung.*
 
+* **[[DALR'22]](https://aclanthology.org/2022.findings-naacl.53.pdf)** Data Augmentation for Low-Resource Dialogue Summarization. Findings 2022.
+
+   *Yongtai Liu, Joshua Maynez, Gonçalo Simões, Shashi Narayan.*
+
+* **[[TGD'22]](https://aclanthology.org/2022.findings-naacl.97.pdf)** Target-Guided Dialogue Response Generation Using Commonsense and Data Augmentation. Findings 2022.
+
+   *Prakhar Gupta, Harsh Jhamtani, Jeffrey Bigham.*
+
+* **[[EMG'22]](https://aclanthology.org/2022.findings-naacl.205.pdf)** Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation. Findings 2022.
+
+   *Yong Cao, Wei Li, Xianzhi Li, Min Chen, Guangyong Chen, Long Hu, Zhengdao Li, Kai Hwang.*
+
+
+
+
+
+
+
 
 ## Data Augmentataion in CV
 
