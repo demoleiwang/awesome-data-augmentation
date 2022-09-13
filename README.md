@@ -53,7 +53,7 @@ This repo is a collection of AWESOME things regarding data augmentation techniqu
 
    *Zach Ryan, Mans Hulden.*
    
-### EMNLP 2022
+### EMNLP 2020
 
 * **[[LAB'20]](https://aclanthology.org/2020.emnlp-main.95.pdf)** Local Additivity Based Data Augmentation for Semi-supervised NER. EMNLP 2020.
 
